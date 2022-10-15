@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rufai Kudus Adeboye
-- 👀 I’m interested in M Development with Dart language [Mobile,Web,BackEnd]
+- 👀 I’m interested in development with Dart language [Mobile,Web,BackEnd]
 - 🌱 I’m currently learning Kotlin and 
 - 💞️ I’m looking to collaborate on Dart driven projects 
 - 📫 How to reach me rufaikudus2014@gmail.com

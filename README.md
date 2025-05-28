@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rufai Kudus Adeboye
 - 👀 I’m interested in development with Dart language [Mobile,Web,BackEnd], Django, Fast API, Node js(Express), Postgres
-- 🌱 I’m currently learning Kotlin and Django
+- 🌱 I’m currently learning kotlin and GoLang
 - 💞️ I’m looking to collaborate on Dart driven projects 
 - 📫 How to reach me rufaikudus2014@gmail.com
 
